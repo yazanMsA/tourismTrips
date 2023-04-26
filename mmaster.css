@@ -1,0 +1,177 @@
+@media screen and (min-width:1000px){
+    .fd{
+        width: 100%;
+        height: 650px;
+        background-color: #44576D;
+    }
+    .fd .im{
+        width: 100%;
+        height: 100%;
+    }
+    .father{
+        width: 100%;
+        height: 70px;
+        background-color: #29353C;
+    }
+    .fh1{
+        text-align: center;
+        color: white;
+    }
+    .father1{
+        width: 100%;
+        height: 600px;
+        background-color: white;
+        position: relative;
+    }
+    .father1 .fa{
+        width: 30%;
+        height: 90%;
+        position: absolute;
+        right: 3%;
+        border-radius: 15px;
+    }
+    .father1 .fafa{
+        width: 30%;
+        height: 10%;
+        background-color: #44576D;
+        position: absolute;
+        right: 3%;
+        bottom: -2%;
+        border-radius: 15px;
+    }
+    .father1 .fa1{
+        width: 30%;
+        height: 90%;
+        position: absolute;
+        right: 35%;
+        border-radius: 15px;
+    }
+    .father1 .fafa1{
+        width: 30%;
+        height: 10%;
+        background-color: #44576D;
+        position: absolute;
+        right: 35%;
+        bottom: -2%;
+        border-radius: 15px;
+    }
+    .father1 .fa2{
+        width: 30%;
+        height: 90%;
+        position: absolute;
+        left: 3%;
+        border-radius: 15px;
+    }
+    .father1 .fafa2{
+        width: 30%;
+        height: 10%;
+        background-color: #44576D;
+        position: absolute;
+        left: 3%;
+        bottom: -2%;
+        border-radius: 15px;
+    }
+    .fh4, .sh4, .th4{
+        text-align: center;
+        color: white;
+    }
+    .fa .im1,
+    .fa1 .im2,
+    .fa2 .im3{
+        width: 100%;
+        height: 100%;
+        border-radius: 15px;
+    }
+}
+/*
+    On Mobiles
+*/
+@media screen and (max-width:1000px){
+    .fd{
+        width: 100%;
+        height: 730px;
+        background-color: #44576D;
+    }
+    .fd .im{
+        width: 100%;
+        height: 100%;
+    }
+    .father{
+        width: 100%;
+        height: 120px;
+        background-color: #29353C;
+    }
+    .fh1{
+        text-align: center;
+        color: white;
+        font-size: 42px;
+    }
+    .father1{
+        width: 100%;
+        height: 1565px;
+        background-color: white;
+        position: relative;
+    }
+    .father1 .fa{
+        width: 90%;
+        height: 400px;
+        position: absolute;
+        right: 5%;
+        border-radius: 15px;
+    }
+    .father1 .fafa{
+        width: 90%;
+        height: 100px;
+        background-color: #44576D;
+        position: absolute;
+        right: 5%;
+        top: 410px;
+        border-radius: 15px;
+    }
+    .father1 .fa1{
+        width: 90%;
+        height: 400px;
+        position: absolute;
+        right: 5%;
+        top: 520px;
+        border-radius: 15px;
+    }
+    .father1 .fafa1{
+        width: 90%;
+        height: 100px;
+        background-color: #44576D;
+        position: absolute;
+        right: 5%;
+        top: 930px;
+        border-radius: 15px;
+    }
+    .father1 .fa2{
+        width: 90%;
+        height: 400px;
+        position: absolute;
+        left: 5%;
+        top: 1050px;
+        border-radius: 15px;
+    }
+    .father1 .fafa2{
+        width: 90%;
+        height: 100px;
+        background-color: #44576D;
+        position: absolute;
+        left: 5%;
+        top: 1460px;
+        border-radius: 15px;
+    }
+    .fh4, .sh4, .th4{
+        text-align: center;
+        color: white;
+        font-size: 42px;
+    }
+    .fa .im1,
+    .fa1 .im2,
+    .fa2 .im3{
+        width: 100%;
+        height: 100%;
+        border-radius: 15px;
+    }
+}

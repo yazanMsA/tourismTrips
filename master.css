@@ -1,0 +1,625 @@
+@media screen and (min-width:1000px){
+    .father{
+        width: 100%;
+        height: 650px;
+        background-color: #44576D;
+        position: relative;
+    }
+    .father .img{
+        width: 100%;
+        height: 90%
+    }
+    .father .fh1{
+        position: absolute;
+        bottom: 0%;
+        right: 2%;
+        color: white;
+    }
+    .father #a1{
+        position: absolute;
+        right: 25%;
+        bottom: 1%;
+    }
+    .father #a2{
+        position: absolute;
+        right: 30%;
+        bottom: 1%;
+    }
+    .father #a3{
+        position: absolute;
+        right: 35%;
+        bottom: 1%;
+    }
+    .fa, .father5, .father7{
+        width: 100%;
+        height: 60px;
+        background-color: #151B54;
+    }
+    .fa .fh1,
+    .father5 .fh1,
+    .father7 .fh1{
+        text-align: center;
+        color: white;
+    }
+    .father1, .father4{
+        width: 30%;
+        height: 511px;
+        background-color: #151B54;
+        position: relative;
+        left: 35%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+        border: 1px solid black;
+    }
+    .father1 .im,
+    .father4 .im5{
+        width: 100%;
+        height: 100%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+    }
+    .father1 .ins,
+    .father4 .ins{
+        width: 80%;
+        height: 50px;
+        border-radius: 50px;
+        background-color: white;
+        position: absolute;
+        top: 2%;
+        left: 10%;
+        border: 1px solid black;
+    }
+    .father1 .fh4,
+    .father2 .fh4,
+    .father3 .fh4,
+    .father4 .fh4,
+    .father6 .fh4{
+        text-align: center;
+    }
+    .father2, .father3, .father6{
+        width: 80%;
+        height: 511px;
+        background-color: white;
+        position: relative;
+        left: 10%;
+    }
+    .father2 .fa1,
+    .father3 .fa3,
+    .father6 .fa5{
+        width: 48%;
+        height: 100%;
+        background-color: white;
+        position: absolute;
+        left: 0%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+        border: 1px solid black;
+    }
+    .father2 .fa2,
+    .father3 .fa4,
+    .father6 .fa6{
+        width: 48%;
+        height: 100%;
+        background-color: white;
+        position: absolute;
+        right: 0%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+        border: 1px solid black;
+    }
+    .fa1 .im1,
+    .fa3 .im3,
+    .fa5 .im6{
+        width: 100%;
+        height: 100%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+    }
+    .fa1 .ins,
+    .fa3 .ins,
+    .fa5 .ins{
+        width: 80%;
+        height: 50px;
+        border-radius: 50px;
+        background-color: white;
+        position: absolute;
+        top: 2%;
+        left: 10%;
+        border: 1px solid black;
+    }
+    .fa2 .im2,
+    .fa4 .im4,
+    .fa6 .im7{
+        width: 100%;
+        height: 100%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+    }
+    .fa2 .ins,
+    .fa4 .ins,
+    .fa6 .ins{
+        width: 80%;
+        height: 50px;
+        border-radius: 50px;
+        background-color: white;
+        position: absolute;
+        top: 2%;
+        left: 10%;
+        border: 1px solid black;
+    }
+    .box{
+        width: 30%;
+        height: 511px;
+        background-color: #151B54;
+        position: relative;
+        left: 35%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+        border: 1px solid black;
+    }
+    .box .imb{
+        width: 100%;
+        height: 100%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+    }
+    .box .ins{
+        width: 80%;
+        height: 50px;
+        border-radius: 50px;
+        background-color: white;
+        position: absolute;
+        top: 2%;
+        left: 10%;
+        border: 1px solid black;
+    }
+    .box .fh4{
+        text-align: center;
+    }
+    .box1{
+        width: 80%;
+        height: 511px;
+        background-color: white;
+        position: relative;
+        left: 10%;
+    }
+    .box1 .fa1b{
+        width: 48%;
+        height: 100%;
+        background-color: white;
+        position: absolute;
+        left: 0%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+        border: 1px solid black;
+    }
+    .box1 .fa2b{
+        width: 48%;
+        height: 100%;
+        background-color: white;
+        position: absolute;
+        right: 0%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+        border: 1px solid black;
+    }
+    .box1 .im1b{
+        width: 100%;
+        height: 100%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+    }
+    .fa1b .ins{
+        width: 80%;
+        height: 50px;
+        border-radius: 50px;
+        background-color: white;
+        position: absolute;
+        top: 2%;
+        left: 10%;
+        border: 1px solid black;
+    }
+    .box1 .im2b{
+        width: 100%;
+        height: 100%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+    }
+    .fa2b .ins{
+        width: 80%;
+        height: 50px;
+        border-radius: 50px;
+        background-color: white;
+        position: absolute;
+        top: 2%;
+        left: 10%;
+        border: 1px solid black;
+    }
+    .box1 .fh4{
+        text-align: center;
+    }
+    .final{
+        width: 70%;
+        height: 70px;
+        background-color: #151B54;
+        position: relative;
+        left: 15%;
+        border: 1px solid black;
+        border-radius: 15px;
+    }
+    .final .fim{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        right: 2%;
+        top: 25%;
+        background-color: white;
+        color: white;
+        border-radius: 50px;
+    }
+    .fh5{
+        text-align: center;
+        color: white;
+    }
+    .final .fim1{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        left: 2%;
+        top: 25%;
+        background-color: white;
+        color: white;
+        border-radius: 50px;
+    }
+    .ffinal{
+        width: 30%;
+        height: 70px;
+        background-color: white;
+        border: 1px solid black;
+        border-radius: 15px;
+        position: relative;
+        left: 35%;
+    }
+    .ffinal .sh5{
+        color: gray;
+        position: absolute;
+        top: 25%;
+        right: 2%;
+    }
+    .ffinal .faa{
+        position: absolute;
+        top: 25%;
+        left: 2%;
+    }
+}
+/*
+On Mobiles
+*/
+@media screen and (max-width:1000px){
+    .father{
+        width: 100%;
+        height: 730px;
+        background-color: #44576D;
+        position: relative;
+    }
+    .father .img{
+        width: 100%;
+        height: 90%
+    }
+    .father .fh1{
+        position: absolute;
+        bottom: 1%;
+        right: 2%;
+        color: white;
+    }
+    .father #a1{
+        position: absolute;
+        right: 30%;
+        bottom: 1%;
+        width: 15%;
+        height: 70px;
+        font-size: 38px;
+    }
+    .father #a2{
+        position: absolute;
+        right: 48%;
+        bottom: 1%;
+        width: 15%;
+        height: 70px;
+        font-size: 38px;
+    }
+    .father #a3{
+        position: absolute;
+        right: 66%;
+        bottom: 1%;
+        width: 15%;
+        height: 70px;
+        font-size: 38px;
+    }
+    .fa, .father5, .father7{
+        width: 100%;
+        height: 80px;
+        background-color: #151B54;
+    }
+    .fa .fh1,
+    .father5 .fh1,
+    .father7 .fh1{
+        text-align: center;
+        color: white;
+        font-size: 42px;
+    }
+    .father1, .father4{
+        width: 46%;
+        height: 511px;
+        background-color: #151B54;
+        position: relative;
+        left: 27%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+        border: 1px solid black;
+    }
+    .father1 .im,
+    .father4 .im5{
+        width: 100%;
+        height: 100%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+    }
+    .father1 .ins,
+    .father4 .ins{
+        width: 90%;
+        height: 50px;
+        border-radius: 50px;
+        background-color: white;
+        position: absolute;
+        top: 2%;
+        left: 5%;
+    }
+    .father1 .fh4,
+    .ins .fh4,
+    .father4 .fh4,
+    .father6 .fh4{
+        text-align: center;
+        font-size: 38px;
+    }
+    .father1 .a1,
+    .fa1 .a1,
+    .fa2 .a1,
+    .fa3 .a1,
+    .fa4 .a1,
+    .father4 .a1,
+    .fa5 .a1,
+    .fa6 .a1{
+        width: 30%;
+        height: 12%;
+        font-size: 28px;
+    }
+    .father2, .father3, .father6{
+        width: 90%;
+        height: 511px;
+        background-color: white;
+        position: relative;
+        left: 5%;
+    }
+    .father2 .fa1,
+    .father3 .fa3,
+    .father6 .fa5{
+        width: 48%;
+        height: 100%;
+        background-color: white;
+        position: absolute;
+        left: 0%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+        border: 1px solid black;
+    }
+    .father2 .fa2,
+    .father3 .fa4,
+    .father6 .fa6{
+        width: 48%;
+        height: 100%;
+        background-color: white;
+        position: absolute;
+        right: 0%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+        border: 1px solid black;
+    }
+    .fa1 .im1,
+    .fa3 .im3,
+    .fa5 .im6{
+        width: 100%;
+        height: 100%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+    }
+    .fa1 .ins,
+    .fa3 .ins,
+    .fa5 .ins{
+        width: 80%;
+        height: 50px;
+        border-radius: 50px;
+        background-color: white;
+        position: absolute;
+        top: 2%;
+        left: 10%;
+        border: 1px solid black;
+    }
+    .fa2 .im2,
+    .fa4 .im4,
+    .fa6 .im7{
+        width: 100%;
+        height: 100%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+    }
+    .fa2 .ins,
+    .fa4 .ins,
+    .fa6 .ins{
+        width: 80%;
+        height: 50px;
+        border-radius: 50px;
+        background-color: white;
+        position: absolute;
+        top: 2%;
+        left: 10%;
+        border: 1px solid black;
+    }
+    .box{
+        width: 46%;
+        height: 511px;
+        background-color: #151B54;
+        position: relative;
+        left: 27%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+        border: 1px solid black;
+    }
+    .box .imb{
+        width: 100%;
+        height: 100%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+    }
+    .box .ins{
+        width: 90%;
+        height: 50px;
+        border-radius: 50px;
+        background-color: white;
+        position: absolute;
+        top: 2%;
+        left: 5%;
+    }
+    .box .fh4{
+        text-align: center;
+        font-size: 38px;
+    }
+    .box .a1{
+        width: 30%;
+        height: 12%;
+        font-size: 28px;
+    }
+    .box1{
+        width: 46%;
+        height: 511px;
+        background-color: #151B54;
+        position: relative;
+        left: 27%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+        border: 1px solid black;
+    }
+    .box1 .fa1b{
+        width: 100%;
+        height: 100%;
+        background-color: #151B54;
+        /*position: relative;
+        left: 27%;*/
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+        border: 1px solid black;
+    }
+    .box1 .fa2b{
+        /*width: 48%;
+        height: 100%;
+        background-color: white;
+        position: absolute;
+        right: 0%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+        border: 1px solid black;*/
+        display: none;
+    }
+    .fa1b .im1b{
+        width: 100%;
+        height: 100%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+    }
+    .fa1b .ins{
+        /*width: 80%;
+        height: 50px;
+        border-radius: 50px;
+        background-color: white;
+        position: absolute;
+        top: 2%;
+        left: 10%;
+        border: 1px solid black;*/
+        width: 90%;
+        height: 50px;
+        border-radius: 50px;
+        background-color: white;
+        position: absolute;
+        top: 2%;
+        left: 5%;
+    }
+    .fa1b .im2b{
+        /*width: 100%;
+        height: 100%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;*/
+        display: none;
+    }
+    .fa2b .ins{
+        /*width: 80%;
+        height: 50px;
+        border-radius: 50px;
+        background-color: white;
+        position: absolute;
+        top: 2%;
+        left: 10%;
+        border: 1px solid black;*/
+        display: none;
+    }
+    .fa1b .a1,
+    .fa2b .a1{
+        width: 30%;
+        height: 12%;
+        font-size: 28px;
+    }
+    .box1 .fh4{
+        text-align: center;
+        font-size: 38px;
+    }
+    .final{
+        width: 90%;
+        height: 120px;
+        background-color: #151B54;
+        position: relative;
+        left: 5%;
+        border: 1px solid black;
+        border-radius: 15px;
+    }
+    .fim, .fim1{
+        display: none;
+    }
+    .fh5{
+        text-align: center;
+        color: white;
+        font-size: 38px;
+    }
+    .ffinal{
+        width: 60%;
+        height: 120px;
+        background-color: white;
+        border: 1px solid black;
+        border-radius: 15px;
+        position: relative;
+        left: 20%;
+    }
+    .ffinal .sh5{
+        color: gray;
+        position: absolute;
+        top: 25%;
+        right: 2%;
+        font-size: 38px;
+    }
+    .ffinal .faa{
+        position: absolute;
+        top: 25%;
+        left: 2%;
+        width: 30%;
+        height: 60%;
+        font-size: 38px;
+    }
+}
